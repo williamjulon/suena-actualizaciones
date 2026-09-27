@@ -1,8 +1,8 @@
 {
-    "versionCode":  24,
-    "versionName":  "1.7.2",
-    "apk":  "https://github.com/williamjulon/suena-actualizaciones/releases/download/v1.7.2/Suena-1.7.2.apk",
-    "notas":  "Loza blanca con adornos de gemas en todas las pantallas.",
-    "sha256":  "d1afee2842c596bb6dd49146dbb7058c6c502863f5399716e0846ddb57b5c9e4",
+    "versionCode":  25,
+    "versionName":  "1.7.3",
+    "apk":  "https://github.com/williamjulon/suena-actualizaciones/releases/download/v1.7.3/Suena-1.7.3.apk",
+    "notas":  "Actualizar sin salir de Suena: aviso de versión nueva, descarga en un cuenco de jade y bienvenida al volver. Piedras preciosas en los avatares y blanco puro.",
+    "sha256":  "3bfed569e7660f1978560cda0e49801b2816869cc63b5253f4dc5f908211d5a0",
     "tamanoMb":  158
 }
