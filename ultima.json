@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
+  "versionCode": 23,
   "versionName": "1.7.1",
-  "apk": "https://github.com/williamjulon/suena-actualizaciones/releases/download/v1.7.2/Suena-1.7.1.apk",
+  "apk": "https://github.com/williamjulon/suena-actualizaciones/releases/download/v1.7.1/Suena-1.7.1.apk",
   "notas": "Loza blanca implementada, sombras y reflejos.",
-  "sha256": "F257684B3E9C0441043018B5A1A7BA8886A25E0D605BCD44F20C7C45F873B7E6",
-  "tamanoMb": 158
+  "sha256": "f257684b3e9c0441043018b5a1a7ba8886a25e0d605bcd44f20c7c45f873b7e6",
+  "tamanoMb": 159
 }
