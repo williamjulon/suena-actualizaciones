@@ -1,8 +1,17 @@
 {
-    "versionCode":  25,
-    "versionName":  "1.7.3",
-    "apk":  "https://github.com/williamjulon/suena-actualizaciones/releases/download/v1.7.3/Suena-1.7.3.apk",
-    "notas":  "Actualizar sin salir de Suena: aviso de versión nueva, descarga en un cuenco de jade y bienvenida al volver. Piedras preciosas en los avatares y blanco puro.",
-    "sha256":  "3bfed569e7660f1978560cda0e49801b2816869cc63b5253f4dc5f908211d5a0",
-    "tamanoMb":  158
+    "versionCode": 26,
+    "versionName": "1.7.4",
+    "apk": "https://github.com/williamjulon/suena-actualizaciones/releases/download/v1.7.4/Suena-1.7.4.apk",
+    "notas": "Suena ahora es de Belcourt: esta versión te ayuda a instalar la nueva Suena y le pasa tus yapes y tus ajustes.",
+    "sha256": "0a936452d33c51a2d0a8e7e9ca95ed3c9f510a7019bd6b633ad71e70d881e1d1",
+    "tamanoMb": 158,
+    "mudanza": {
+        "paquete": "pe.belcourt.suena",
+        "versionCode": 27,
+        "versionName": "1.8.0",
+        "apk": "https://github.com/williamjulon/suena-actualizaciones/releases/download/v1.8.0/Suena-1.8.0.apk",
+        "notas": "Suena ahora es de Belcourt.\nTus yapes y tus ajustes vienen contigo desde la Suena anterior.",
+        "sha256": "4357c0f964ae11672e8ae290ddd239ba94fd9677096a4cad27daeb3c282b9565",
+        "tamanoMb": 158
+    }
 }
