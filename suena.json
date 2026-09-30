@@ -1,8 +1,8 @@
 {
-    "versionCode": 27,
-    "versionName": "1.8.0",
-    "apk": "https://github.com/williamjulon/suena-actualizaciones/releases/download/v1.8.0/Suena-1.8.0.apk",
-    "notas": "Suena ahora es de Belcourt.\nTus yapes y tus ajustes vienen contigo desde la Suena anterior.",
-    "sha256": "4357c0f964ae11672e8ae290ddd239ba94fd9677096a4cad27daeb3c282b9565",
-    "tamanoMb": 158
+    "versionCode":  28,
+    "versionName":  "1.8.1",
+    "apk":  "https://github.com/williamjulon/suena-actualizaciones/releases/download/v1.8.1/Suena-1.8.1.apk",
+    "notas":  "Suena vuelve a abrirse sola después de renovarse.\nAl cambiar entre Hoy, Días y Ajustes, la pantalla se desliza hacia el lado de la pestaña.",
+    "sha256":  "a5755c5752d454e76960fa974f9f89feee3546a584ca98f4b2e130336fe265cd",
+    "tamanoMb":  158
 }
