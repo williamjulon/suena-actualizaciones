@@ -7,11 +7,11 @@
     "tamanoMb": 158,
     "mudanza": {
         "paquete": "pe.belcourt.suena",
-        "versionCode": 27,
-        "versionName": "1.8.0",
-        "apk": "https://github.com/williamjulon/suena-actualizaciones/releases/download/v1.8.0/Suena-1.8.0.apk",
-        "notas": "Suena ahora es de Belcourt.\nTus yapes y tus ajustes vienen contigo desde la Suena anterior.",
-        "sha256": "4357c0f964ae11672e8ae290ddd239ba94fd9677096a4cad27daeb3c282b9565",
-        "tamanoMb": 158
+        "versionCode": 29,
+        "versionName": "1.9.0",
+        "apk": "https://github.com/williamjulon/suena-actualizaciones/releases/download/v1.9.0/Suena-1.9.0.apk",
+        "notas": "PIN para entrar a Suena, con huella o rostro. Aunque esté cerrada, sigue diciendo cada yape.\nNuevo en Ajustes: Seguridad y Tu negocio (nombre, RUC y régimen, solo en tu celular).",
+        "sha256": "98bdd0655493abb7503daa9255be0225b1dfbc01ae99805176aba72eae159f16",
+        "tamanoMb": 159
     }
 }
