@@ -1,8 +1,8 @@
 {
-    "versionCode":  28,
-    "versionName":  "1.8.1",
-    "apk":  "https://github.com/williamjulon/suena-actualizaciones/releases/download/v1.8.1/Suena-1.8.1.apk",
-    "notas":  "Suena vuelve a abrirse sola después de renovarse.\nAl cambiar entre Hoy, Días y Ajustes, la pantalla se desliza hacia el lado de la pestaña.",
-    "sha256":  "a5755c5752d454e76960fa974f9f89feee3546a584ca98f4b2e130336fe265cd",
-    "tamanoMb":  158
+    "versionCode":  29,
+    "versionName":  "1.9.0",
+    "apk":  "https://github.com/williamjulon/suena-actualizaciones/releases/download/v1.9.0/Suena-1.9.0.apk",
+    "notas":  "PIN para entrar a Suena, con huella o rostro. Aunque esté cerrada, sigue diciendo cada yape.\nNuevo en Ajustes: Seguridad y Tu negocio (nombre, RUC y régimen, solo en tu celular).",
+    "sha256":  "98bdd0655493abb7503daa9255be0225b1dfbc01ae99805176aba72eae159f16",
+    "tamanoMb":  159
 }
